@@ -1,0 +1,12 @@
+stanza
+deep_translator
+torch
+transformers
+sentence-transformers
+scipy
+numpy
+pandas
+sacrebleu
+
+
+
